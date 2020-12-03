@@ -197,7 +197,7 @@ h2::after {
 content: '';
 position: absolute;
 height: 5px;
-top: 50px;
+top: 55px;
 left: 50%;
 transform: translate(-50%);
 border: none;
